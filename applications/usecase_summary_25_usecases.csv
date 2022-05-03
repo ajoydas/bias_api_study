@@ -1,0 +1,26 @@
+usecase_name,usecase_description
+Action Prediction,"Projects that are focused on what action (eg, legal action) can be taken in certain situations."
+Advertisement Strategy,"Projects that are related to providing improved advertisement or marketing strategy and uses computation or ML techniques, increases profit/return."
+API Usage,"Project which provides fairness API/Library documentation or project that shows how to use various fairness APIs, generally uses multiple common datasets from various domains."
+Credit Approval,Projects that are related to predicting approval of credit applications.
+Deployment,Project are related to deploying ML models using automated approach.
+Detection,"Research/demo project that are focused on detecting/identifying bias in certain domains, uses multiple common datasets from various domains."
+Development,Research/demo projects that are focused on development of various types of ML models using different approaches.
+Disease Prediction,"Projects that are related to detecting/predicting/classifying health related issues (eg, disease prediction)."
+Failure Prediction,Projects that are related to preidicting failure of business.
+Fairness Impact,Project which studies fairness impacts on a specific domain (mostly impact on performance).
+Flight Cancellation,"Projects that are related to detecting flight issues (ie, delays/cancellation)."
+Fraud Detection,Projects that are related to detecting financial frauds.
+Insolvency Prediction,Projects that are related to predicting financial insolvency/bankruptcy.
+Language Analysis,Projects that are focused towards abusive language processing.
+Legal Status Prediction,Projects that are related to predicting the legal status of someone/something.
+Mitigation,Research/demo project sets to mitigate bias and improve fairness on specific domains.
+Model Security,Projects that are related to exploring ML model security or adverserial ML.
+Monetary Compensation,Projects that are related to predicting monetary compensation.
+Monitoring,Projects that are related to monitoring something. 
+Patient Retention,Projects that are related to retention prediction of patients who are under clinical care.
+Policy Violation,"Projects that are related to predicting when and where inspection should be done, who/which place would most likely violate legal policy."
+Recommendation,Projects that are related to providing recommendation related to something.
+Risk Detection,Projects that are related to detecting/predicting risk in an automated approach.
+Survivability Prediction,Projects that are related to predicting survival of someone/something.
+Traffic Handler,Projects that are related to predicting traffic incidents.
